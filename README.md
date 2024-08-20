@@ -10,8 +10,6 @@ Examples of perceived problems with regular conferences:
 * The non-loud-mouths get little space for their thoughts and ideas
 
 &nbsp;  
-&nbsp;  
-&nbsp;  
 
 ## Why START2?
 Some 15 years ago a network of experienced QA professional was gathered under the name of START. The initiative was ongoing for a few years until it eventually died out. Recently a lack of forums like this has become apparent. Hence, this new manifesto is compiled.
@@ -39,3 +37,8 @@ Some 15 years ago a network of experienced QA professional was gathered under th
 * _Blue_ for reply to previous comment
 Each participands has a set of these and if any of these cards are held up by a participant, the moderator make sure all people get their things said.
 &nbsp;&nbsp;&nbsp;3.2. Discussions could be timeboxed to a set time.
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
