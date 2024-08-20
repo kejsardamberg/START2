@@ -9,10 +9,16 @@ Examples of perceived problems with regular conferences:
 * Broadcasting information rather than focus on discussion and true experience exchange
 * The non-loud-mouths get little space for their thoughts and ideas
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 ## Why START2?
-Some 15 years ago a network of experienced QA professional was gathered under the name of START.
+Some 15 years ago a network of experienced QA professional was gathered under the name of START. The initiative was ongoing for a few years until it eventually died out. Recently a lack of forums like this has become apparent. Hence, this new manifesto is compiled.
   
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ## START2 manifesto
 &nbsp;**1. Must-haves**  
