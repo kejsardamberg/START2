@@ -5,7 +5,7 @@ The START2 setup could be a complement to for example _lean coffee_ or _open spa
 
 Examples of perceived problems with regular conferences:
 
-* Vendor expectation management focus from commersial business agendas
+* Vendor expectation management focus from commercial business agendas
 * Sponsor pleasing from conference staff means sales or marketing presentations rather than true knowledge sharing
 * Bleak presentations that has to be made with thoughts on the least knowledgeable person in the expected target audience
 * Presenters boasting their experiences rather than open up displaying their fears, problems or weaknesses for support by others
@@ -24,7 +24,8 @@ Examples of perceived problems with regular conferences:
 Back in the early 2010's a network of experienced QA professional was gathered under the name of _START_. The initiative was ongoing for a few years until it eventually died out. Recently a lack of forums like this has become apparent. Hence, this new manifesto is compiled in hope of a new era of knowledge sharing.
 
 ## Key concepts
-The center of gaining insights isn't just knowledge, or even experiences. The center of gaining insights is discussing the experiences to gain understanding on why something works in a specific context and not in another.
+The centre of gaining insights isn't just knowledge, or even experiences. 
+The centre of gaining insights is discussing the experiences to gain understanding on why something works in a specific context and not in another.
 
 Sharing with a focus on problemsolving rather than boasting.
 
