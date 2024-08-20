@@ -31,7 +31,7 @@ Some 15 years ago a network of experienced QA professional was gathered under th
 &nbsp;&nbsp;&nbsp;2.3. START2 event time should be enough for everyone to hold their presentation and everyone to have a lengthy in-depth discussion about the experience presented.  
 
 &nbsp;**3. Could-haves**  
-&nbsp;&nbsp;&nbsp;3.1. Discussions could be timeboxed to a set time.
+&nbsp;&nbsp;&nbsp;3.1. Discussions could be timeboxed to a set time.  
 &nbsp;&nbsp;&nbsp;3.2. If some people stay silent/inactive in discussions due to other people being more extrovert or louder, a Internet-forum like comment system of diffently coulored postit notes or similar could be used:  
 * _Green_ for new thread
 * _Yellow_ for comment on current topic
