@@ -34,7 +34,7 @@ Some 15 years ago a network of experienced QA professional was gathered under th
 &nbsp;&nbsp;&nbsp;3.1. If some people stay silent/inactive in discussions due to other people being more extrovert or louder, a Internet-forum like comment system of diffently coulored postit notes or similar could be used:  
 * _Green_ for new thread
 * _Yellow_ for comment on current topic
-* _Blue_ for reply to previous comment
+* _Blue_ for reply to previous comment  
 Each participands has a set of these and if any of these cards are held up by a participant, the moderator make sure all people get their things said.  
 &nbsp;&nbsp;&nbsp;3.2. Discussions could be timeboxed to a set time.
 
