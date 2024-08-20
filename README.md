@@ -12,9 +12,10 @@ Examples of perceived problems with regular conferences:
 ## Why START2?
 Some 15 years ago a network of experienced QA professional was gathered under the name of START.
 
-_1. Ettan
-__1.1 Ett ett
-_2. Två
+&nbsp;1. Ettan  
+&nbsp;&nbsp;&nbsp;1.1. Ett ett  
+&nbsp;&nbsp;&nbsp;1.2. Ett två  
+&nbsp;2. Två  
 
 ## START2 manifesto
 ### Must-haves
