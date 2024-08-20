@@ -13,6 +13,9 @@ Examples of perceived problems with regular conferences:
 Some 15 years ago a network of experienced QA professional was gathered under the name of START.
 
 ## START2 manifesto
+_1.  List item__  
+__1.1 List item
+_2.  List item
 ### Must-haves
 * Meetings are to be held at neutral grounds like someones home, chambre separee, summer house, or conference facility. START2 sessions are not a marketing event.
 * Each meeting should be centered around a specific theme to enable choosing relevant participants.
