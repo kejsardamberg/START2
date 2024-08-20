@@ -27,7 +27,7 @@ Back in the early 2010's a network of experienced QA professional was gathered u
 The centre of gaining insights isn't just knowledge, or even experiences. 
 The centre of gaining insights is discussing the experiences to gain understanding on why something works in a specific context and not in another.
 
-Sharing with a focus on problemsolving rather than boasting.
+Sharing with a focus on problem solving rather than boasting.
 
 To enable these discussions the manifesto below has been produced.
 
@@ -39,8 +39,8 @@ To enable these discussions the manifesto below has been produced.
 
 ## START2 manifesto
 &nbsp;**1. Must-haves**  
-&nbsp;&nbsp;&nbsp;1.1. Meetings are to be held at neutral grounds like someones home, chambre séparée, summer house, or conference facility. START2 sessions are not a marketing event.  
-&nbsp;&nbsp;&nbsp;1.2. Each meeting should be centered around a specific theme to enable choosing relevant participants.  
+&nbsp;&nbsp;&nbsp;1.1. Meetings are to be held at neutral grounds like someone's home, chambre séparée, summer house, or conference facility. START2 sessions are not a marketing event.  
+&nbsp;&nbsp;&nbsp;1.2. Each meeting should be centred around a specific theme to enable choosing relevant participants.  
 &nbsp;&nbsp;&nbsp;1.3. Each participant should bring a short presentation on the choosen theme. The presentation must be about an actual personal experience.  
 &nbsp;&nbsp;&nbsp;1.4. After each presentation plenty of time for discussions is planned since discussions are the center of gaining insights in experience exchanges.  
 
